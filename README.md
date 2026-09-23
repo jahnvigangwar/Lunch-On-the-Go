@@ -29,7 +29,7 @@ python manage.py migrate
 python manage.py runserver
 ```
 
-On Windows, activate the virtual environment with `.venv\\Scripts\\activate`.
+On Windows, activate the virtual environment with `.venv\Scripts\activate`.
 
 ## Repository hygiene
 
